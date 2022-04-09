@@ -1,0 +1,44 @@
+.date-widget{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+.date{
+    width:800px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.dateDisplay{
+    display: flex;
+    justify-content: center;
+    color:gray
+}
+.cas1{
+    padding: 20px;
+    /* display: flex; */
+    width: 500px;
+    height:150px;
+    
+    /* justify-content: center; */
+}
+
+.cas2{
+    padding: 20px;
+    /* display: flex; */
+    width: 500px;
+    height: 250px;
+    /* justify-content: center; */
+}
+
+.cas3{
+    padding: 20px;
+    /* display: flex; */
+    width: 500px;
+    height: 250px;
+    /* justify-content: center; */
+}
+.smallCanvas{
+    display: flex;
+    justify-content: center;
+}
